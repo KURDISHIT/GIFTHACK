@@ -198,7 +198,7 @@ def action():
     time.sleep(0.5)
     psb('[\xe2\x9c\x93] PLEASE WHITE TO DONE...')
     time.sleep(0.5)
-    psb('[!] TO STOPE HACK PRESS CTRL + z')
+    psb('[!] TOO STOPE HACK PRESS CTRL + z')
     time.sleep(0.5)
     print '\x1b[1;91m--------------------------------------------------'
 
