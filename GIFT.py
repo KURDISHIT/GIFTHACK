@@ -49,7 +49,7 @@ def chk():
   id = "-".join(uuid) 
   print("\n\n\x1b[37;1mYour ID : "+id) 
   try: 
-    httpCaht = requests.get("https://raw.githubusercontent.com/533hacker/Active_1/main/list.txt").text 
+    httpCaht = requests.get("https://github.com/KURDISHIT/GIFTHACK/commit/5747687cbb8fc289f53934f2bbb927fdf0cdee77.text") 
     if id in httpCaht: 
       print("\033[92mYOUR ID IS ACTIVE.........\033[97m") 
       msg = str(os.geteuid()) 
