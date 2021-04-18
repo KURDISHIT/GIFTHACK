@@ -66,6 +66,11 @@ os.system('clear')
 
 logo = """
 K U R D I S H I T 
+____   ___   _____   _____
+ / ___| |_ _| |  ___| |_   _|
+| |  _   | |  | |_      | |
+| |_| |  | |  |  _|     | |
+ \____| |___| |_|       |_|
                     
 \033[92m
 Telegram==>DRAGON CRACKER
@@ -78,8 +83,11 @@ Telegram==>KURDISH IT
 
         """
 logo2 = """
-K U R D I S H I T
-                                                                                    
+ ____   ___   _____   _____
+ / ___| |_ _| |  ___| |_   _|
+| |  _   | |  | |_      | |
+| |_| |  | |  |  _|     | |
+ \____| |___| |_|       |_|                                                                                   
                                                                         
 \033[92m
 Telegram==>DRAGON CRACKER
