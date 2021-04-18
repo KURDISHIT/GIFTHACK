@@ -148,7 +148,7 @@ def action():
         try:
             c = raw_input('\x1b[1;91mChoose Code : ')
             k = '+964'
-            name = raw_input('NAWEK BLE>')
+            name = raw_input('NAWEK BLE:')
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -166,7 +166,7 @@ def action():
         try:
             c = raw_input('\x1b[1;91mChoose Code : ')
             k = '+964'
-            name = raw_input('NAWEK BLE')
+            name = raw_input('NAWEK BLE:')
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
@@ -184,7 +184,7 @@ def action():
         try:
             c = raw_input('\x1b[1;91mChoose Code : ')
             k = '+964'
-            f = raw_input('NAWEK BLE')
+            f = raw_input('NAWEK BLE:')
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
